@@ -1,1 +1,2 @@
 second line added
+line 2 added by dev A don't be over write
